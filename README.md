@@ -1,17 +1,5 @@
 # 30DaysofGoogleCloud
 
-### Follow the below steps to track your progress!!
-
-📍 Step 1: Fork and star this repository. (You can see the fork option in the top-right corner.)
-
-
-📍 Step 2: You will be redirected to your own copy of this repo.
-
-
-📍 Step 3: You can edit the file in your own copy as per your progress.
-
--> Change [ ] to [x] to check the checkboxes and track your progress throughout the program timeline.
-
 ------------------------------------------------------------------------------------------------------------------------------
 
 ### * Track 1: Cloud Engineering Track
@@ -109,5 +97,4 @@
     - [ ] Compare Cloud AI Platform Models using the What-If Tool to Identify Potential Bias
     - [ ] Explore Machine Learning Models with Explainable AI: Challenge Lab
 
-
-### Best Wishes folks !! #30DaysOfGoogleCloud
+ #30DaysOfGoogleCloud !!
