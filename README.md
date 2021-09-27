@@ -1,6 +1,5 @@
 # 30DaysofGoogleCloud
 
-------------------------------------------------------------------------------------------------------------------------------
 
 ### * Track 1: Cloud Engineering Track
 
@@ -97,4 +96,4 @@
     - [ ] Compare Cloud AI Platform Models using the What-If Tool to Identify Potential Bias
     - [ ] Explore Machine Learning Models with Explainable AI: Challenge Lab
 
- #30DaysOfGoogleCloud !!
+ # 30DaysOfGoogleCloud !!
